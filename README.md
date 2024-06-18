@@ -10,4 +10,5 @@ The `Langchain` directory contains scripts and resources related to the Langchai
 
 The `Ollama` framework, which focuses on running with large language models.
 - https://github.com/ollama/ollama/tree/main
+- python library: https://github.com/ollama/ollama-python
 
