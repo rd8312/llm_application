@@ -8,11 +8,6 @@ The `Langchain` directory contains scripts and resources related to the Langchai
 
 ## 📚 Ollama
 
-The `Ollama` directory includes scripts and tools for working with the Ollama framework, which focuses on running with large language models.
+The `Ollama` framework, which focuses on running with large language models.
+- https://github.com/ollama/ollama/tree/main
 
-## Repository Structure
-
-The repository is structured to support easy navigation and understanding of each module:
-
-- **Langchain**: Scripts and resources for Langchain framework.
-- **Ollama**: Scripts and tools for the Ollama framework.
