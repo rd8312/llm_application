@@ -12,3 +12,13 @@ The `Ollama` framework, which focuses on running with large language models.
 - https://github.com/ollama/ollama/tree/main
 - python library: https://github.com/ollama/ollama-python
 
+## 🖥️ UI
+
+### Chainlit
+`Chainlit` is an open-source Python package to build production ready Conversational AI.
+- https://docs.chainlit.io/get-started/overview
+
+## Other Repository
+
+The `GPT4All` runs large language models (LLMs) privately on everyday desktops & laptops.
+- https://github.com/nomic-ai/gpt4all
