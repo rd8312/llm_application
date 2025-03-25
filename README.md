@@ -6,6 +6,11 @@ This repository showcases the application of large language models (LLMs) in var
 
 The `Langchain` directory contains scripts and resources related to the Langchain framework. Langchain is a powerful tool for building and managing complex language model workflows.
 
+### 🕹️LangGraph
+- Enable the development, debugging, and maintenance of AI agents.
+- Integrate agentic search capabilities to enhance agent knowledge and performance.
+
+
 ## 📚 Ollama
 
 The `Ollama` framework, which focuses on running with large language models.
@@ -17,6 +22,13 @@ The `Ollama` framework, which focuses on running with large language models.
 ### Chainlit
 `Chainlit` is an open-source Python package to build production ready Conversational AI.
 - https://docs.chainlit.io/get-started/overview
+
+### 📚 Deep Research
+- Deep Research can conduct multi-step investigations, reference multiple sources, and produce structured reports.
+
+### 🛠️ MCP
+- The `Model Context Protocol (MCP)` is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.
+- https://github.com/modelcontextprotocol
 
 ## Other Repository
 
